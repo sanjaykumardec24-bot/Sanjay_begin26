@@ -69,7 +69,7 @@ I aim to grow into a professional who can **build, innovate, and stand with conf
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/sanjaykumardec24-bot
 * LinkedIn:https://www.linkedin.com/in/sanjay-kumar-s-s-02011b377
 
 ---
