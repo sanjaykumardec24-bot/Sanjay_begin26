@@ -77,6 +77,6 @@ I aim to grow into a professional who can **build, innovate, and stand with conf
 
 ## ✨ Quote I Believe In
 
-*"Consistency beats talent when talent doesn’t work consistently."*
-
----
+***"Consistency beats talent when talent doesn’t work consistently."*
+"Start small, stay consistent, and build something meaningful."
+**---
